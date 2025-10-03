@@ -1,0 +1,24 @@
+.main-section {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+  height: 100vh;
+  background-color: black;
+
+}
+
+.section-1{
+  margin-top: 50px;
+}
+
+.section-2{
+  margin-top: 20px;
+}
+.card{
+  margin-top: 5px;
+}
+
+.section-3{
+  margin-top: 20px;
+}
