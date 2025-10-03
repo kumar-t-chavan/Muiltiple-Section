@@ -1,12 +1,47 @@
-# React + Vite
+# React Multi-Section Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React JS** project demonstrating **multiple collapsible sections** with a global "Open All / Close All" functionality.  
+This project uses **Bootstrap 5** for styling and collapse behavior.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## About
+
+This project is a React application that demonstrates:
+
+- Multiple collapsible sections  
+- "Open All / Close All" button to toggle all sections at once  
+- Bootstrap collapse integration  
+- Responsive UI with cards for each section  
+
+Perfect for portfolios, FAQs, or dashboard components.
+
+---
+
+## Features
+
+- Multiple collapsible sections  
+- Global toggle button to open/close all sections  
+- Smooth collapse animation (Bootstrap)  
+- Responsive card layout  
+- Easy to extend with additional sections  
+
+---
+
+## Technologies Used
+
+- React JS  
+- Bootstrap 5  
+- HTML5 & CSS3  
+- JavaScript (ES6+)  
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/react-multi-section.git
